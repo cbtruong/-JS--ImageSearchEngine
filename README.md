@@ -1,2 +1,1 @@
-## Demo:
-  link: https://cbtruong.github.io/-JS--ImageSearchEngine/
+## Demo: https://cbtruong.github.io/JS-ImageSearchEngine/
